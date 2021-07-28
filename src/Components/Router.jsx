@@ -10,7 +10,7 @@ import '../App.css';
 const Router = () => {
     return (
         <BrowserRouter>
-        <h3>Freedom</h3>
+        <h3>Freedom Enterprise</h3>
             <div className="pages">
                 
                 <Link className="link" to="/">Home</Link>
